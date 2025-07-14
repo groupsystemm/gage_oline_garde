@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: flask-grade-system
+    name: gage_oline_garde
     env: python
     plan: free
     buildCommand: "pip install -r requirements.txt"
